@@ -1,8 +1,8 @@
 /*----------Funcion Clasica---------*/
 let suma = function(a, b){
-    return a + b
-    }
-   
+    return 3 + 3
+}
+  suma() 
     
 
 /*--------Funcion Arrow---------*/
